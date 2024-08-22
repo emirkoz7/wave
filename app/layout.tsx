@@ -7,7 +7,7 @@ import BottomNavbar from '@/app/components/BottomNavbar';
 import { GoogleAnalytics } from '@next/third-parties/google';
 import { Toaster } from 'react-hot-toast';
 import { SpeedInsights } from '@vercel/speed-insights/next';
-import { Viewport } from 'next';
+import { Viewport } from 'next'; 
 
 const inter = Inter({ subsets: ['latin'] });
 import { Analytics } from '@vercel/analytics/react';
